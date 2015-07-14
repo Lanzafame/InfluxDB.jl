@@ -1,4 +1,5 @@
 using InfluxDB
+using HTTPClient.HTTPC
 using Base.Test
 
 # write your own tests here
